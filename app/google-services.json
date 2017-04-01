@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "510596197893",
+    "firebase_url": "https://shop-61311.firebaseio.com",
+    "project_id": "shop-61311",
+    "storage_bucket": "shop-61311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510596197893:android:d27cce073955cffb",
+        "android_client_info": {
+          "package_name": "com.echessa.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510596197893-3v1lrfbdiojg0dfdjthmlt3qs4md73sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpt11D_F_67aGA1LioFGXDc-e5b7fyQAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
